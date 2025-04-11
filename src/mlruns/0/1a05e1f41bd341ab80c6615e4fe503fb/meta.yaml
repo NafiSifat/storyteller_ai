@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/users/mnafi/documents/ai_final_project/project_code/storyteller_ai/src/mlruns/0/1a05e1f41bd341ab80c6615e4fe503fb/artifacts
+end_time: 1740267394637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a05e1f41bd341ab80c6615e4fe503fb
+run_name: kindly-goose-868
+run_uuid: 1a05e1f41bd341ab80c6615e4fe503fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740266628928
+status: 3
+tags: []
+user_id: mnafi

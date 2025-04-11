@@ -1,0 +1,4 @@
+folder,num_images,inception_score_mean,inception_score_std
+ollama_deepseek_story,13,1.3825747,0.25256988
+ollama_gemma3_story,11,1.4436868,0.22197783
+ollama_llama3_story,11,1.4490248,0.27965188

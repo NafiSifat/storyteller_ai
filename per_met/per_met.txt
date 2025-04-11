@@ -1,0 +1,21 @@
+
+Text generation:
+
+OpenAI gpt2
+Perplexity: 1.82
+BLEU: 0.0290
+ROUGE: {'rouge1': [0.2605504587155963], 'rouge2': [0.04963235294117647], 'rougeL': [0.16513761467889906], 'rougeLsum': [0.16513761467889906]}
+
+OpenAI gpt2-medium
+Perplexity: 28.35
+BLEU: 0.0338
+ROUGE: {'rouge1': [0.28634361233480177], 'rouge2': [0.05752212389380531], 'rougeL': [0.15418502202643172], 'rougeLsum': [0.15418502202643172]}
+
+
+OpenAI gpt2-large
+Perplexity: 10.81
+BLEU: 0.0550
+ROUGE: {'rouge1': [0.2842465753424657], 'rouge2': [0.05154639175257732], 'rougeL': [0.15068493150684933], 'rougeLsum': [0.15068493150684933]}
+
+
+

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/users/mnafi/documents/ai_final_project/project_code/storyteller_ai/src/mlruns/0/43753eed9309486bbd526d1fbd9fe3c5/artifacts
+end_time: 1740268500133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43753eed9309486bbd526d1fbd9fe3c5
+run_name: rebellious-frog-988
+run_uuid: 43753eed9309486bbd526d1fbd9fe3c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740268128909
+status: 3
+tags: []
+user_id: mnafi
