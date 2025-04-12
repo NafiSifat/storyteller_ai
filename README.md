@@ -7,6 +7,7 @@ ollama run deepseek-r1:7b
 ollama run gemma3:4b
 
 -Conda python environment libraries:
+
 numpy
 pandas
 torch
