@@ -1,11 +1,17 @@
+NOTE: Generated files are uoloaded alongside with the code upload for convenient. All gen folder are full with the files which used in the project report. Also the GPT-2 fine-tuned weights are not gives since they are enormous (2-3GB) for github.
+
+-----------------------------------------------------------------
 -Software required:
 Install Ollama and install the following models: 
 https://ollama.com/download/windows
 
 ollama run llama3.1:8b
+
 ollama run deepseek-r1:7b
+
 ollama run gemma3:4b
 
+-----------------------------------------------------------------
 -Conda python environment libraries:
 
 numpy
@@ -40,12 +46,17 @@ json
 
 gtts
 
+-----------------------------------------------------------------
 
 -Install Mastering Digital Image Alchemy:
 https://imagemagick.org/
 
+-----------------------------------------------------------------
+
 -Download BookCorpus:
 https://www.kaggle.com/datasets/rajendrabaskota/bookcropus
+
+-----------------------------------------------------------------
 
 -Software pipeline workthrough:
 1. Data Generation -> data_gen.py
@@ -55,3 +66,4 @@ https://www.kaggle.com/datasets/rajendrabaskota/bookcropus
 5. Image Generation -> Image_gen.py
 6. Images metrics -> image_met.py
 7. Video compilation -> movie_com.py
+-----------------------------------------------------------------
