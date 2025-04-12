@@ -9,21 +9,37 @@ ollama run gemma3:4b
 -Conda python environment libraries:
 
 numpy
+
 pandas
+
 torch
+
 torchvision
+
 transformers
-HuggingFace
+
+HuggingFace 
+
 nltk
+
 diffusers
+
 PIL
+
 scipy
+
 moviepy
+
 tqdm
+
 matplotlib
+
 pathlib
+
 json
+
 gtts
+
 
 -Install Mastering Digital Image Alchemy:
 https://imagemagick.org/
