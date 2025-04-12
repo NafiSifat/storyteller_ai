@@ -1,4 +1,4 @@
-NOTE: Generated files are uoloaded alongside with the code upload for convenient. All gen folder are full with the files which used in the project report. Also the GPT-2 fine-tuned weights are not gives since they are enormous (2-3GB) for github.
+NOTE: Generated files are uoloaded alongside with the code upload for convenient. All gen folder are full with the files which used in the project report. Also the GPT-2 fine-tuned weights are not given since they are enormous (2-3GB) for github.
 
 -----------------------------------------------------------------
 -Software required:
