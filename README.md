@@ -6,6 +6,8 @@ Install Ollama and install the following models:
 
 https://ollama.com/download/windows
 
+In command prompt:
+
 ollama run llama3.1:8b
 
 ollama run deepseek-r1:7b
